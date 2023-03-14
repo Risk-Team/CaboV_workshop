@@ -1,4 +1,4 @@
-# Introduction to the cloud-based environment CAVA Analytics to work with CORDEX-CORE climate models and other R libraries to access, analyse and visualize netCDF files in R
+# Introduction to the cloud-based environment CAVA Analytics: working with CORDEX-CORE climate models and other R libraries to access, analyse and visualize netCDF files in R
 
 In this workshop we will learn how to use [CAVA Analytics](https://github.com/Risk-Team/CAVA-Analytics) to access, analyse and visualize CORDEX-CORE climate models for any location in the world. We will also explore some R libraries that can be used to access the COPERNICUS marine data store. The workshop will allow partrecipants to understand how to use cloud-based services to perform meaningful analysis with netCDF files. Some examples will include ISIMIP impact models but also satellite products retrieved from COPERNICUS. 
 
