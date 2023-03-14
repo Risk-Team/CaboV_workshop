@@ -1,1 +1,1 @@
-# Workshop on the usage of CAVA Analytics and the Hub for could-based analysis of climate models and other netCDF files
+# Introduction to the usage of CAVA Analytics and cloud-based services for analysing climate models and other netCDF files
