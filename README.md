@@ -12,7 +12,7 @@ This repository contains all the slides and Jupyter Notebook required for the tr
 | 10:30-11:00 | Coffee break                                       |
 | 11:00-12:30 | [How to use CAVA Analytics (log-in, installing packages, working with notebook, etc)](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 | 12:30-13:30 | Lunch break                                        |
-| 13:30-14:00 | ***Group 2***-[Welcoming remarks](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Workshop%20agenda.pdf)                                       |
-| 14:00-15:00 | ***Group 2***-[Climate Module 1: Introduction to   climate change](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
-| 15:00-15:30 | Coffee break                                       |
-| 15:30-17:00 | ***Group 2***-[Crop Module 1: Introduction to crop   modelling](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
+| 13:30-14:00 | [Using the core functions of CAVA Analytics and visualize results from regional climate models](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Workshop%20agenda.pdf)                                       |
+| 13:30-14:00 | [ISIMIP impact models and how to download data](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 14:00-15:30 | [Accessing COPERNICUS marine data store](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 15:30-16:00 | Open discussions   |
