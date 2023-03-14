@@ -1,1 +1,1 @@
-# Introduction to the usage of CAVA Analytics and cloud-based services for analysing climate models and other netCDF files
+# Introduction to the CAVA framework with a focus on CAVA Analytics to work with climate models in a cloud-based environment
