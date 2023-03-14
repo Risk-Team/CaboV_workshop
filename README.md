@@ -8,7 +8,7 @@ This repository contains all the slides and Jupyter Notebook required for the tr
 | Time        | Slides and material                                             |
 |-------------|----------------------------------------------------|
 | 9:00-9:30 | [Introduction to the CAVA framework](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Workshop%20agenda.pdf)                                     |
-| 9:30-10:30  | [Introducrtion to CAVA Analytics and could-based services-](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
+| 9:30-10:30  | [Introduction to CAVA Analytics and cloud-based services](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Climate%20module%201.%20Introduction%20to%20Climate%20Change.pdf) |
 | 10:30-11:00 | Coffee break                                       |
 | 11:00-12:30 | [How to use CAVA Analytics (log-in, installing packages, working with notebook, etc)](https://github.com/Risk-Team/Moldova-workshop/blob/main/slides/Day%201.%20Crop%20module%201.%20Introduction%20to%20AquaCrop.pdf)    |
 | 12:30-13:30 | Lunch break                                        |
