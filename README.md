@@ -5,14 +5,14 @@ In this workshop we will learn how to use [CAVA Analytics](https://github.com/Ri
 ## Introduction to CAVA Analytics
 This repository contains all the slides and Jupyter Notebooks required for the workshop. An overview of the agenda, with a link to the slides and material is found below
 
-| Time        | Slides and material                                             |
-|-------------|----------------------------------------------------|
+| Time        | Slides                                             | Data |
+|-------------|----------------------------------------------------|------|
 | 9:00-9:30 | [Introduction to the CAVA framework](https://github.com/Risk-Team/CaboV_workshop/blob/main/slides/Introduction%20to%20the%20CAVA%20framework.pdf)                                     |
-| 9:30-10:30  | [Introduction to CAVA Analytics and cloud-based services]() |
-| 10:30-11:00 | Coffee break                                       |
-| 11:00-12:30 | [How to use CAVA Analytics (log-in, installing packages, working with notebook, etc)]()    |
-| 12:30-13:30 | Lunch break                                        |
-| 13:30-14:00 | [Using the core functions of CAVA Analytics and visualize results from regional climate models]()                                       |
-| 13:30-14:00 | [ISIMIP impact models and how to download data]() |
-| 14:00-15:30 | [Accessing COPERNICUS marine data store]() |
-| 15:30-16:00 | Open discussions   |
+| 9:30-10:30  | [Introduction to CAVA Analytics and cloud-based services]() |  |
+| 10:30-11:00 | Coffee break                                       |   |
+| 11:00-12:30 | [How to use CAVA Analytics (log-in, installing packages, working with notebook, etc)]()    |  |
+| 12:30-13:30 | Lunch break                                        |  |
+| 13:30-14:00 | [Using the core functions of CAVA Analytics and visualize results from regional climate models]()   |  |
+| 13:30-14:00 | [ISIMIP impact models and how to download data]() |  |
+| 14:00-15:30 | [Accessing COPERNICUS marine data store]() |  |
+| 15:30-16:00 | Open discussions   |  |
