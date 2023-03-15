@@ -7,7 +7,7 @@ This repository contains all the slides and Jupyter Notebooks required for the w
 
 | Time        | Slides and material                                             |
 |-------------|----------------------------------------------------|
-| 9:00-9:30 | [Introduction to the CAVA framework]()                                     |
+| 9:00-9:30 | [Introduction to the CAVA framework](https://github.com/Risk-Team/CaboV_workshop/blob/main/slides/Introduction%20to%20the%20CAVA%20framework.pdf)                                     |
 | 9:30-10:30  | [Introduction to CAVA Analytics and cloud-based services]() |
 | 10:30-11:00 | Coffee break                                       |
 | 11:00-12:30 | [How to use CAVA Analytics (log-in, installing packages, working with notebook, etc)]()    |
