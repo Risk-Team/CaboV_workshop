@@ -12,7 +12,7 @@ This repository contains all the slides and Jupyter Notebooks required for the w
 | 10:30-11:00 | Coffee break                                       |   |
 | 11:00-12:30 | [How to use the HUB (log-in, installing packages, etc)](https://github.com/Risk-Team/CaboV_workshop/blob/main/slides/The%20HUB%20as%20a%20cloud%20based%20service.pdf)    |  |
 | 12:30-13:30 | Lunch break                                        |  |
-| 13:30-14:00 | [Using the core functions of CAVA Analytics](https://github.com/Risk-Team/CaboV_workshop/blob/main/slides/Introduction%20to%20the%20CAVA%20framework.pdf)   | [notebook1]()  |
+| 13:30-14:00 | [Using the core functions of CAVA Analytics](https://github.com/Risk-Team/CaboV_workshop/blob/main/slides/Introduction%20to%20the%20CAVA%20framework.pdf)   | [notebook1](https://github.com/Risk-Team/CaboV_workshop/blob/main/notebooks/climate4R_tidyverse.ipynb) [solutions]()  |
 | 14:00-14:30 | [ISIMIP impact models and how to download data]() |  |
 | 14:30-15:30 | [Accessing COPERNICUS marine data store]() |  |
 | 15:30-16:00 | Open discussions   |  |
