@@ -2,6 +2,8 @@
 
 In this workshop we will learn how to use [CAVA Analytics](https://github.com/Risk-Team/CAVA-Analytics) to access, analyse and visualize CORDEX-CORE climate models for any location in the world. We will also explore some R libraries that can be used to access the COPERNICUS marine data store. The workshop will allow partrecipants to understand how to use cloud-based services to perform meaningful analysis with netCDF files. Some examples will include ISIMIP impact models but also satellite products retrieved from COPERNICUS. 
 
+If you have been registered with your GitHub username, you can access the [HUB here](https://hub.ipcc.ifca.es/hub/login)
+
 ## Introduction to CAVA Analytics
 This repository contains all the slides and Jupyter Notebooks required for the workshop. An overview of a **tentative** agenda, with a link to the slides and material is found below. **The agenda will be adjusted based on the partecipants needs and experience.**
 
